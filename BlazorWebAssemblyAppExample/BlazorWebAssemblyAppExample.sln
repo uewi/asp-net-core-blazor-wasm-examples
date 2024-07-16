@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorWebAssemblyApp", "BlazorWebAssemblyApp\BlazorWebAssemblyApp.csproj", "{03E1F5AD-2D9F-45E0-8211-49CB5B6D1FCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03E1F5AD-2D9F-45E0-8211-49CB5B6D1FCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03E1F5AD-2D9F-45E0-8211-49CB5B6D1FCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03E1F5AD-2D9F-45E0-8211-49CB5B6D1FCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03E1F5AD-2D9F-45E0-8211-49CB5B6D1FCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
